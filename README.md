@@ -1,11 +1,12 @@
 # jenah
-A small project which shows departure times of the public transport in Jena on a LCD1602 display.
+A small weekend project which shows departure times of the public transport in Jena on a LCD1602 display.
 
 ## Requirements
 
 ### Hardware
-* Raspberry Pi
+* Raspberry Pi Zero W
 * LCD1602 display
+* 3D-printed case for the LCD1602
 
 ### Software
 * Python 3
